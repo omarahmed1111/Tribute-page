@@ -8,3 +8,5 @@ A template for a tribute page. Example used in the template is Alan turing.
 # Development Environment
 * Visual studio code
 * Live server extension
+# Screenshots
+![Screenshot](https://i.imgur.com/YZKEjO0.png)
